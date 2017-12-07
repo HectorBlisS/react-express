@@ -20,4 +20,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#Webstorm metadata
 .idea
+
+# Mac files
+.DS_Store
